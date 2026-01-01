@@ -41,16 +41,6 @@ The extension will now be available in your browser.
 
 ---
 
-## ▶️ Usage
-
-1. Download the latest release from the link above  
-2. **Extract** the ZIP archive. 
-3. Open Chrome and go to `chrome://extensions/`
-4. Enable **Developer mode**
-5. Click **"Load unpacked"** and select the extracted folder. 
-
----
-
 ## 🧩 How It Works
 
 The extension processes user input through a controlled flow that validates the selected data and applies the update sequence.  
